@@ -1,7 +1,7 @@
 ---
 name: New Content Schema
 about: Describe this new content schema you would like added to Zentrum
-title: ''
+title: New Content Schema
 labels: content schema
 assignees: ngreen-zentrumsoft
 
